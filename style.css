@@ -1,4 +1,11 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
-} */
+}
+/* footer section  */
+.icon i {
+  color: #fff;
+  background: rgba(39, 37, 37, 0.757);
+  padding: 14px;
+  margin-right: 10px;
+}
