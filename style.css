@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
 /* footer section  */
 .icon i {
   color: #fff;
@@ -8,20 +12,18 @@
 .carousel-item {
   height: 450px;
 }
-
 .carousel-img-1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("images/cover/cover-1.png") no-repeat;
   background-size: cover;
 }
-
 .carousel-img-2 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("images/cover/cover-2.jpg") no-repeat;
   background-size: cover;
 }
 .carousel-img-3 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("images/cover/cover-3.jpg") no-repeat;
   background-size: cover;
 }
