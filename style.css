@@ -1,11 +1,27 @@
-* {
-  margin: 0;
-  padding: 0;
-}
 /* footer section  */
 .icon i {
   color: #fff;
   background: rgba(39, 37, 37, 0.757);
   padding: 14px;
   margin-right: 10px;
+}
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-img-1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url("images/cover/cover-1.png") no-repeat;
+  background-size: cover;
+}
+
+.carousel-img-2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url("images/cover/cover-2.jpg") no-repeat;
+  background-size: cover;
+}
+.carousel-img-3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)),
+    url("images/cover/cover-3.jpg") no-repeat;
+  background-size: cover;
 }
